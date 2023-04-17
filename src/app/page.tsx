@@ -90,7 +90,7 @@ export default function Home() {
               </p>
               <h2>Where I’ve worked</h2>
               <h3>
-                React Frontend Developer <span>Zup Innovation</span>
+                React Frontend Developer <span>@Zup Innovation</span>
               </h3>
               <p>
                 Participating in the planning, development and delivery of new
@@ -99,16 +99,16 @@ export default function Home() {
                 testing and scalability.
               </p>
               <h3>
-                Angular Frontend Developer <span>Infosys</span>
+                Angular Frontend Developer <span>@Infosys</span>
               </h3>
               <p>
                 Developing new features in the Auction and Carrier Registration
-                modules on Loadshark, Braskem's freight management platform,
-                generating savings of over 3 million reais and 200+ registered
-                carriers.
+                modules on Loadshark, Braskem&apos;s freight management
+                platform, generating savings of over 3 million reais and 200+
+                registered carriers.
               </p>
               <h3>
-                React Frontend Developer <span>SENAI</span>
+                React Frontend Developer <span>@SENAI</span>
               </h3>
               <p>
                 Responsible for implementing the design and development of new
@@ -116,7 +116,7 @@ export default function Home() {
                 management of auto repair shops in Brazil.
               </p>
               <h3>
-                React Frontend Developer <span>Intelitrader</span>
+                React Frontend Developer <span>@Intelitrader</span>
               </h3>
               <p>
                 Participating in the development of the InteliRisk financial
