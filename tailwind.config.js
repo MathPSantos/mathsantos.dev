@@ -7,10 +7,29 @@ module.exports = {
   ],
   theme: {
     extend: {
+      typography: (theme) => ({
+        DEFAULT: {
+          css: {
+            color: theme("colors.gray.300"),
+            "h1, h2, h3, h4, h5, h6": {
+              color: theme("colors.gray.100"),
+              fontWeight: "400",
+            },
+            h2: {
+              marginTop: "60px",
+              marginBottom: "32px",
+            },
+            h3: { marginTop: "24px" },
+            span: {
+              color: theme("colors.amber.500"),
+            },
+          },
+        },
+      }),
       fontFamily: {
         sans: ["var(--font-sans)", "sans-serif"],
       },
     },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/typography")],
 };
