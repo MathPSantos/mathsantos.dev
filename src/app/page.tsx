@@ -59,9 +59,9 @@ export default function Home() {
                   <span className="text-amber-500">digital-products</span>
                 </h1>
                 <p className="mt-5 leading-relaxed">
-                  I’m always seeking to helping people with solutions.
-                  Currently, I’m focused on bulding, coding and designing
-                  human-centered solutions at Zup.
+                  I’m always seeking to helping people with solutions. I’m
+                  focused on building, coding and designing human-centered
+                  solutions at Zup.
                 </p>
               </div>
             </div>
