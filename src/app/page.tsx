@@ -90,6 +90,16 @@ export default function Home() {
               </p>
               <h2>Where I’ve worked</h2>
               <h3>
+                Software Engineer <span>@FLOKI</span>
+              </h3>
+              <p>
+                Participating in the core team of FlokiFi, a suite of
+                decentralized financial products that will be launched under the
+                Floki brand. Some of these products are Token Launcher and Floki
+                University. Thanks to the credibility of the Floki ecosystem,
+                $FLOKI has more than 475 thousand holders.
+              </p>
+              <h3>
                 React Frontend Developer <span>@Zup Innovation</span>
               </h3>
               <p>
